@@ -46,8 +46,8 @@ Ele permite que o usuário insira sua própria chave de API para utilizar o mode
 Clone o repositório e abra o projeto no navegador:
 
 ```bash
-git clone https://github.com/seu-usuario/chatbot-openai.git
-cd chatbot-openai
+git clone https://github.com/tvgDev/Chatbot-OpenAI
+cd Chatbot-OpenAI
 ```
 
 Abra o arquivo `index.html` no navegador.  
