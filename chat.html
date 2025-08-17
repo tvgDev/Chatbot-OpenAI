@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot Interface</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=swap"
+    />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="chatbot">
+      <header>
+        <h2>Chatbot</h2>
+        <button class="close-btn">
+          <img src="/assets/X.png" alt="BotaoDeSair" />
+        </button>
+      </header>
+      <ul class="chatbox">
+        <li class="chat incoming">
+          <span class="material-symbols-outlined">smart_toy</span>
+          <p>Olá 👋<br />Como posso ajudá-lo hoje?</p>
+        </li>
+      </ul>
+      <div class="chat-input">
+        <textarea
+          placeholder="Digite uma mensagem..."
+          spellcheck="false"
+          required
+        ></textarea>
+        <span class="material-symbols-rounded">Enviar</span>
+      </div>
+    </div>
+    <button class="open-chat-btn" style="display: none">Abrir Chat</button>
+  </body>
+</html>
