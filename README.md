@@ -61,6 +61,6 @@ Insira seu **token da API da OpenAI** para começar a conversar.
 ## 🌐 Acesso Online
 
 Também disponível em:  
-👉 [Em Breve...)
+👉 https://chatbot-open-ai-three.vercel.app/
 
 ---
